@@ -28,4 +28,4 @@ See example code [here](./src/App.vue).
 
 ## License
 
-MIT
+[MIT](./LICENSE)
